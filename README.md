@@ -22,3 +22,6 @@ To get all the common denominators, run with `-a` as the **first** argument:
 div -a 800 600 1920 1080
 # 1 2 4 5 8 10 20 40
 ```
+
+### License
+[MIT](LICENSE)
