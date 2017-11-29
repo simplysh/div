@@ -23,5 +23,5 @@ div -a 800 600 1920 1080
 # 1 2 4 5 8 10 20 40
 ```
 
-### License
+## License
 [MIT](LICENSE)
